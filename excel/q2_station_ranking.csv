@@ -1,0 +1,36 @@
+site_id,station_name,agency,valid_days,mean_pm25,pct_days_over_60,risk_rank
+301,"Anand Vihar",DPCC,954,130.0,70.7,1
+1423,Jahangirpuri,DPCC,1036,129.0,72.7,2
+1434,Wazirpur,DPCC,1055,125.8,69.2,3
+1560,Bawana,DPCC,1066,124.1,69.1,4
+1561,Mundka,DPCC,1049,120.7,64.9,5
+1429,"Nehru Nagar",DPCC,1060,117.6,59.7,6
+125,"Punjabi Bagh",DPCC,1028,117.3,65.2,7
+1430,Rohini,DPCC,1070,116.2,61.6,8
+124,"R K Puram",DPCC,1039,116.1,69.6,9
+1435,"Vivek Vihar",DPCC,1035,113.5,61.2,10
+113,Shadipur,CPCB,1030,111.8,69.0,11
+1426,Narela,DPCC,1078,108.9,63.0,12
+1431,Patparganj,DPCC,1052,106.5,56.4,13
+1432,"Sonia Vihar",DPCC,1036,106.3,61.2,14
+1420,"Ashok Vihar",DPCC,1043,106.1,58.2,15
+117,ITO,CPCB,1022,104.1,59.6,16
+119,Sirifort,CPCB,941,102.5,57.3,17
+5024,Alipur,DPCC,1048,101.1,59.3,18
+104,"Burari Crossing",IITM,1004,101.1,60.2,19
+1428,"Okhla Phase-2",DPCC,1063,100.3,53.8,20
+1425,"Major Dhyan Chand National Stadium",DPCC,1043,99.6,58.8,21
+105,"North Campus DU",IITM,1044,99.4,61.0,22
+115,"NSIT Dwarka",CPCB,1053,98.0,66.5,23
+1421,"Dr. Karni Singh Shooting Range",DPCC,1063,97.9,54.6,24
+122,"Mandir Marg",DPCC,952,96.5,54.8,25
+1563,Pusa,DPCC,1040,92.8,52.5,26
+103,"CRRI Mathura Road",IITM,973,91.6,57.3,27
+107,Pusa,IITM,1015,89.6,57.1,28
+1424,"Jawaharlal Nehru Stadium",DPCC,1042,87.7,45.8,29
+106,"IGI Airport (T3)",IITM,1036,86.9,51.1,30
+1427,Najafgarh,DPCC,1016,84.1,53.0,31
+1562,"Sri Aurobindo Marg",DPCC,1056,83.4,48.3,32
+108,"Aya Nagar",IITM,1021,82.4,52.9,33
+114,"IHBAS Dilshad Garden",CPCB,1008,78.0,59.2,34
+118,DTU,CPCB,1011,73.9,48.1,35
