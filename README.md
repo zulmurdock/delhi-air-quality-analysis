@@ -51,7 +51,7 @@ Missing readings are kept as missing and never treated as zero.
       excel/                      exported query tables
       charts/                     PNG figures
       load_data.py
-      load_to_mysql.py
+      load_to_sql.py
       audit.py
       sensitivity.py
       lockdown_bootstrap.py
@@ -69,7 +69,7 @@ Missing readings are kept as missing and never treated as zero.
 
     python load_data.py              # combine the 288 files into one CSV
     (run sql/01_schema.sql in MySQL)
-    python load_to_mysql.py          # load into MySQL (asks for the password)
+    python load_to_sql.py          # load into MySQL (asks for the password)
     (run sql/02_clean_and_daily.sql, then the queries in sql/03_queries.sql)
     python audit.py                  # data quality checks
     python sensitivity.py            # threshold robustness check
